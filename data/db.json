@@ -1,0 +1,23 @@
+{
+  "students": {
+    "id": "6630250176",
+    "name": "นายธีรเดช เหวชัยภูมิ",
+    "major_id": "S06",
+    "major_name": "วิทยาการคอมพิวเตอร์",
+    "old_school": "Pomnakarachswatyanon"
+  },
+  "subjects": [
+    {
+      "id": "1242",
+      "name": "Practicum in Software Development",
+      "grade": "B+",
+      "credit": "3"
+    },
+    {
+      "id": "01418215",
+      "name": "dsf",
+      "grade": "B+",
+      "credit": "4"
+    }
+  ]
+}
